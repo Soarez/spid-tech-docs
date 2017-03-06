@@ -44,7 +44,7 @@ in SPiD are noted where appropriate.
 
 With paylinks, you prepare the product(s) the user wants to buy and inform SPiD
 of the impending purchase. SPiD will return a URL that will take the user to the
-check out process for the selected products. Products may or may not be storedm
+check out process for the selected products. Products may or may not be stored
 in SPiD.
 
 - [Guide: Getting started with SPiD Paylinks](/getting-started-with-paylinks/)
